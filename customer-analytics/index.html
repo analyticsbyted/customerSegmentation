@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Intelligence Suite | Presentation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body class="dark-mode">
+    <div id="app">
+        <!-- Navigation -->
+        <nav class="navbar">
+            <div class="nav-content">
+                <div class="logo">
+                    <span class="logo-icon">Target</span>
+                    <span class="logo-text">Customer Intelligence</span>
+                </div>
+                <div class="nav-links">
+                    <a href="#intro">Context</a>
+                    <a href="#exploration">Exploration</a>
+                    <a href="#optimization">Optimization</a>
+                    <a href="#segments">Segments</a>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <section id="intro" class="hero">
+            <div class="hero-glow"></div>
+            <div class="container">
+                <div class="badge">Unsupervised Machine Learning Project</div>
+                <h1>Shopping Mall <br><span class="gradient-text">Customer Segmentation</span></h1>
+                <p class="subtitle">By Ted Dickey</p>
+
+                <div class="intro-card glass">
+                    <h3>Problem Statement</h3>
+                    <p>Analyze customer behavior in a shopping mall to identify target customers who are more likely to
+                        be easily influenced, enabling effective marketing strategies and improved customer engagement.
+                    </p>
+
+                    <div class="objective-grid">
+                        <div class="obj-item">
+                            <span class="icon">🎯</span>
+                            <h4>Objective</h4>
+                            <p>Divide mall target market into appropriate groups based on demographic and behavioral
+                                factors.</p>
+                        </div>
+                        <div class="obj-item">
+                            <span class="icon">📊</span>
+                            <h4>Criteria</h4>
+                            <p>Identify important shopping groups based on income, age, and shopping score.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Exploration Section -->
+        <section id="exploration" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Step 1: The Demographic Landscape</h2>
+                    <p class="section-subtitle">Understanding the raw distribution of our customer base before applying
+                        machine learning optimization.</p>
+                </div>
+
+                <div class="chart-grid">
+                    <div class="chart-card glass">
+                        <h3>Age & Spending Distribution</h3>
+                        <div class="chart-container">
+                            <canvas id="ageDistributionChart"></canvas>
+                        </div>
+                        <div class="analysis-box">
+                            <h4>Analysis</h4>
+                            <p>The distribution reveals a significant concentration of customers in their late 20s and
+                                early 30s. This young-adult demographic represents the most active mall participants,
+                                showing a strong correlation between age and mall engagement (Spending Score).</p>
+                        </div>
+                    </div>
+                    <div class="chart-card glass">
+                        <h3>Income vs. Spending</h3>
+                        <div class="chart-container">
+                            <canvas id="incomeSpendingChart"></canvas>
+                        </div>
+                        <div class="analysis-box">
+                            <h4>Analysis</h4>
+                            <p>Early visualization shows natural "pockets" of data points. Specifically, we see clusters
+                                forming at the high-income/low-spending and high-income/high-spending extremes, hinting
+                                at distinct psychological profiles.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Optimization Section -->
+        <section id="optimization" class="section alt-bg">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Step 2: Optimization via K-Means</h2>
+                    <p class="section-subtitle">Using the Elbow Method to mathematically determine the most efficient
+                        number of segments.</p>
+                </div>
+
+                <div class="optimization-content">
+                    <div class="chart-card glass full-width">
+                        <div class="optimization-grid">
+                            <div class="chart-main">
+                                <canvas id="elbowChart"></canvas>
+                            </div>
+                            <div class="analysis-side">
+                                <h3>The Elbow Method</h3>
+                                <p>To find the optimal 'K' (number of clusters), we calculate the <strong>Sum of Squared
+                                        Errors (Inertia)</strong> for various cluster counts.</p>
+                                <ul class="step-list">
+                                    <li><strong>Initial Drop:</strong> Significant decrease from K=1 to K=4.</li>
+                                    <li><strong>The Elbow:</strong> The rate of decrease plateaus significantly at
+                                        <strong>K=5</strong>.
+                                    </li>
+                                    <li><strong>Conclusion:</strong> 5 clusters provide the best balance between
+                                        granularity and model simplicity, as used in the initial study.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Segments Section -->
+        <section id="segments" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Step 3: Intelligence Insights</h2>
+                    <p class="section-subtitle">The final segmentation results. Compare multi-dimensional groups vs.
+                        distinct bivariate clusters.</p>
+
+                    <div class="control-group">
+                        <label for="clusterMode">Clustering Dimension:</label>
+                        <select id="clusterMode" class="input-select">
+                            <option value="multivariate">Multivariate (Age, Gender, Income, Spending)</option>
+                            <option value="bivariate" selected>Bivariate (Income vs. Spending Score)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="segments-visual glass">
+                    <canvas id="clusterChart"></canvas>
+                </div>
+
+                <div class="roadmap-grid" id="clusterCards">
+                    <!-- Cards will be populated dynamically -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <p>&copy; 2025 Shopping Mall Customer Segmentation | Ted Dickey Analytics</p>
+            </div>
+        </footer>
+    </div>
+    <script type="module" src="/main.js"></script>
+</body>
+
+</html>

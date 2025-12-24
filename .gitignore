@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+dashboard/
+.ipynb_checkpoints/
+multivariate_clusters.png
+Clustering_Final.csv
+customer-analytics/node_modules/
+customer-analytics/dist/

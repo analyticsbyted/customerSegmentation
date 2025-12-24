@@ -1,0 +1,2030 @@
+{
+  "customers": [
+    {
+      "CustomerID": 1,
+      "Gender": "Male",
+      "Age": 19,
+      "Annual Income (k$)": 15,
+      "Spending Score": 39,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 2,
+      "Gender": "Male",
+      "Age": 21,
+      "Annual Income (k$)": 15,
+      "Spending Score": 81,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 3,
+      "Gender": "Female",
+      "Age": 20,
+      "Annual Income (k$)": 16,
+      "Spending Score": 6,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 4,
+      "Gender": "Female",
+      "Age": 23,
+      "Annual Income (k$)": 16,
+      "Spending Score": 77,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 5,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 17,
+      "Spending Score": 40,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 6,
+      "Gender": "Female",
+      "Age": 22,
+      "Annual Income (k$)": 17,
+      "Spending Score": 76,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 7,
+      "Gender": "Female",
+      "Age": 35,
+      "Annual Income (k$)": 18,
+      "Spending Score": 6,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 8,
+      "Gender": "Female",
+      "Age": 23,
+      "Annual Income (k$)": 18,
+      "Spending Score": 94,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 9,
+      "Gender": "Male",
+      "Age": 64,
+      "Annual Income (k$)": 19,
+      "Spending Score": 3,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 10,
+      "Gender": "Female",
+      "Age": 30,
+      "Annual Income (k$)": 19,
+      "Spending Score": 72,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 11,
+      "Gender": "Male",
+      "Age": 67,
+      "Annual Income (k$)": 19,
+      "Spending Score": 14,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 12,
+      "Gender": "Female",
+      "Age": 35,
+      "Annual Income (k$)": 19,
+      "Spending Score": 99,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 13,
+      "Gender": "Female",
+      "Age": 58,
+      "Annual Income (k$)": 20,
+      "Spending Score": 15,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 14,
+      "Gender": "Female",
+      "Age": 24,
+      "Annual Income (k$)": 20,
+      "Spending Score": 77,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 15,
+      "Gender": "Male",
+      "Age": 37,
+      "Annual Income (k$)": 20,
+      "Spending Score": 13,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 16,
+      "Gender": "Male",
+      "Age": 22,
+      "Annual Income (k$)": 20,
+      "Spending Score": 79,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 17,
+      "Gender": "Female",
+      "Age": 35,
+      "Annual Income (k$)": 21,
+      "Spending Score": 35,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 18,
+      "Gender": "Male",
+      "Age": 20,
+      "Annual Income (k$)": 21,
+      "Spending Score": 66,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 19,
+      "Gender": "Male",
+      "Age": 52,
+      "Annual Income (k$)": 23,
+      "Spending Score": 29,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 20,
+      "Gender": "Female",
+      "Age": 35,
+      "Annual Income (k$)": 23,
+      "Spending Score": 98,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 21,
+      "Gender": "Male",
+      "Age": 35,
+      "Annual Income (k$)": 24,
+      "Spending Score": 35,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 22,
+      "Gender": "Male",
+      "Age": 25,
+      "Annual Income (k$)": 24,
+      "Spending Score": 73,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 23,
+      "Gender": "Female",
+      "Age": 46,
+      "Annual Income (k$)": 25,
+      "Spending Score": 5,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 24,
+      "Gender": "Male",
+      "Age": 31,
+      "Annual Income (k$)": 25,
+      "Spending Score": 73,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 25,
+      "Gender": "Female",
+      "Age": 54,
+      "Annual Income (k$)": 28,
+      "Spending Score": 14,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 26,
+      "Gender": "Male",
+      "Age": 29,
+      "Annual Income (k$)": 28,
+      "Spending Score": 82,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 27,
+      "Gender": "Female",
+      "Age": 45,
+      "Annual Income (k$)": 28,
+      "Spending Score": 32,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 28,
+      "Gender": "Male",
+      "Age": 35,
+      "Annual Income (k$)": 28,
+      "Spending Score": 61,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 29,
+      "Gender": "Female",
+      "Age": 40,
+      "Annual Income (k$)": 29,
+      "Spending Score": 31,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 30,
+      "Gender": "Female",
+      "Age": 23,
+      "Annual Income (k$)": 29,
+      "Spending Score": 87,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 31,
+      "Gender": "Male",
+      "Age": 60,
+      "Annual Income (k$)": 30,
+      "Spending Score": 4,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 32,
+      "Gender": "Female",
+      "Age": 21,
+      "Annual Income (k$)": 30,
+      "Spending Score": 73,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 33,
+      "Gender": "Male",
+      "Age": 53,
+      "Annual Income (k$)": 33,
+      "Spending Score": 4,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 34,
+      "Gender": "Male",
+      "Age": 18,
+      "Annual Income (k$)": 33,
+      "Spending Score": 92,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 35,
+      "Gender": "Female",
+      "Age": 49,
+      "Annual Income (k$)": 33,
+      "Spending Score": 14,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 36,
+      "Gender": "Female",
+      "Age": 21,
+      "Annual Income (k$)": 33,
+      "Spending Score": 81,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 37,
+      "Gender": "Female",
+      "Age": 42,
+      "Annual Income (k$)": 34,
+      "Spending Score": 17,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 38,
+      "Gender": "Female",
+      "Age": 30,
+      "Annual Income (k$)": 34,
+      "Spending Score": 73,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 39,
+      "Gender": "Female",
+      "Age": 36,
+      "Annual Income (k$)": 37,
+      "Spending Score": 26,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 40,
+      "Gender": "Female",
+      "Age": 20,
+      "Annual Income (k$)": 37,
+      "Spending Score": 75,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 41,
+      "Gender": "Female",
+      "Age": 65,
+      "Annual Income (k$)": 38,
+      "Spending Score": 35,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 42,
+      "Gender": "Male",
+      "Age": 24,
+      "Annual Income (k$)": 38,
+      "Spending Score": 92,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 43,
+      "Gender": "Male",
+      "Age": 48,
+      "Annual Income (k$)": 39,
+      "Spending Score": 36,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 44,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 39,
+      "Spending Score": 61,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 45,
+      "Gender": "Female",
+      "Age": 49,
+      "Annual Income (k$)": 39,
+      "Spending Score": 28,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 1
+    },
+    {
+      "CustomerID": 46,
+      "Gender": "Female",
+      "Age": 24,
+      "Annual Income (k$)": 39,
+      "Spending Score": 65,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 2
+    },
+    {
+      "CustomerID": 47,
+      "Gender": "Female",
+      "Age": 50,
+      "Annual Income (k$)": 40,
+      "Spending Score": 55,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 48,
+      "Gender": "Female",
+      "Age": 27,
+      "Annual Income (k$)": 40,
+      "Spending Score": 47,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 49,
+      "Gender": "Female",
+      "Age": 29,
+      "Annual Income (k$)": 40,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 50,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 40,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 51,
+      "Gender": "Female",
+      "Age": 49,
+      "Annual Income (k$)": 42,
+      "Spending Score": 52,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 52,
+      "Gender": "Male",
+      "Age": 33,
+      "Annual Income (k$)": 42,
+      "Spending Score": 60,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 53,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 43,
+      "Spending Score": 54,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 54,
+      "Gender": "Male",
+      "Age": 59,
+      "Annual Income (k$)": 43,
+      "Spending Score": 60,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 55,
+      "Gender": "Female",
+      "Age": 50,
+      "Annual Income (k$)": 43,
+      "Spending Score": 45,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 56,
+      "Gender": "Male",
+      "Age": 47,
+      "Annual Income (k$)": 43,
+      "Spending Score": 41,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 57,
+      "Gender": "Female",
+      "Age": 51,
+      "Annual Income (k$)": 44,
+      "Spending Score": 50,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 58,
+      "Gender": "Male",
+      "Age": 69,
+      "Annual Income (k$)": 44,
+      "Spending Score": 46,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 59,
+      "Gender": "Female",
+      "Age": 27,
+      "Annual Income (k$)": 46,
+      "Spending Score": 51,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 60,
+      "Gender": "Male",
+      "Age": 53,
+      "Annual Income (k$)": 46,
+      "Spending Score": 46,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 61,
+      "Gender": "Male",
+      "Age": 70,
+      "Annual Income (k$)": 46,
+      "Spending Score": 56,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 62,
+      "Gender": "Male",
+      "Age": 19,
+      "Annual Income (k$)": 46,
+      "Spending Score": 55,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 63,
+      "Gender": "Female",
+      "Age": 67,
+      "Annual Income (k$)": 47,
+      "Spending Score": 52,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 64,
+      "Gender": "Female",
+      "Age": 54,
+      "Annual Income (k$)": 47,
+      "Spending Score": 59,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 65,
+      "Gender": "Male",
+      "Age": 63,
+      "Annual Income (k$)": 48,
+      "Spending Score": 51,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 66,
+      "Gender": "Male",
+      "Age": 18,
+      "Annual Income (k$)": 48,
+      "Spending Score": 59,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 67,
+      "Gender": "Female",
+      "Age": 43,
+      "Annual Income (k$)": 48,
+      "Spending Score": 50,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 68,
+      "Gender": "Female",
+      "Age": 68,
+      "Annual Income (k$)": 48,
+      "Spending Score": 48,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 69,
+      "Gender": "Male",
+      "Age": 19,
+      "Annual Income (k$)": 48,
+      "Spending Score": 59,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 70,
+      "Gender": "Female",
+      "Age": 32,
+      "Annual Income (k$)": 48,
+      "Spending Score": 47,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 71,
+      "Gender": "Male",
+      "Age": 70,
+      "Annual Income (k$)": 49,
+      "Spending Score": 55,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 72,
+      "Gender": "Female",
+      "Age": 47,
+      "Annual Income (k$)": 49,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 73,
+      "Gender": "Female",
+      "Age": 60,
+      "Annual Income (k$)": 50,
+      "Spending Score": 49,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 74,
+      "Gender": "Female",
+      "Age": 60,
+      "Annual Income (k$)": 50,
+      "Spending Score": 56,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 75,
+      "Gender": "Male",
+      "Age": 59,
+      "Annual Income (k$)": 54,
+      "Spending Score": 47,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 76,
+      "Gender": "Male",
+      "Age": 26,
+      "Annual Income (k$)": 54,
+      "Spending Score": 54,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 77,
+      "Gender": "Female",
+      "Age": 45,
+      "Annual Income (k$)": 54,
+      "Spending Score": 53,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 78,
+      "Gender": "Male",
+      "Age": 40,
+      "Annual Income (k$)": 54,
+      "Spending Score": 48,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 79,
+      "Gender": "Female",
+      "Age": 23,
+      "Annual Income (k$)": 54,
+      "Spending Score": 52,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 80,
+      "Gender": "Female",
+      "Age": 49,
+      "Annual Income (k$)": 54,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 81,
+      "Gender": "Male",
+      "Age": 57,
+      "Annual Income (k$)": 54,
+      "Spending Score": 51,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 82,
+      "Gender": "Male",
+      "Age": 38,
+      "Annual Income (k$)": 54,
+      "Spending Score": 55,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 83,
+      "Gender": "Male",
+      "Age": 67,
+      "Annual Income (k$)": 54,
+      "Spending Score": 41,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 84,
+      "Gender": "Female",
+      "Age": 46,
+      "Annual Income (k$)": 54,
+      "Spending Score": 44,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 85,
+      "Gender": "Female",
+      "Age": 21,
+      "Annual Income (k$)": 54,
+      "Spending Score": 57,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 86,
+      "Gender": "Male",
+      "Age": 48,
+      "Annual Income (k$)": 54,
+      "Spending Score": 46,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 87,
+      "Gender": "Female",
+      "Age": 55,
+      "Annual Income (k$)": 57,
+      "Spending Score": 58,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 88,
+      "Gender": "Female",
+      "Age": 22,
+      "Annual Income (k$)": 57,
+      "Spending Score": 55,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 89,
+      "Gender": "Female",
+      "Age": 34,
+      "Annual Income (k$)": 58,
+      "Spending Score": 60,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 90,
+      "Gender": "Female",
+      "Age": 50,
+      "Annual Income (k$)": 58,
+      "Spending Score": 46,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 91,
+      "Gender": "Female",
+      "Age": 68,
+      "Annual Income (k$)": 59,
+      "Spending Score": 55,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 92,
+      "Gender": "Male",
+      "Age": 18,
+      "Annual Income (k$)": 59,
+      "Spending Score": 41,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 93,
+      "Gender": "Male",
+      "Age": 48,
+      "Annual Income (k$)": 60,
+      "Spending Score": 49,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 94,
+      "Gender": "Female",
+      "Age": 40,
+      "Annual Income (k$)": 60,
+      "Spending Score": 40,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 95,
+      "Gender": "Female",
+      "Age": 32,
+      "Annual Income (k$)": 60,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 96,
+      "Gender": "Male",
+      "Age": 24,
+      "Annual Income (k$)": 60,
+      "Spending Score": 52,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 97,
+      "Gender": "Female",
+      "Age": 47,
+      "Annual Income (k$)": 60,
+      "Spending Score": 47,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 98,
+      "Gender": "Female",
+      "Age": 27,
+      "Annual Income (k$)": 60,
+      "Spending Score": 50,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 99,
+      "Gender": "Male",
+      "Age": 48,
+      "Annual Income (k$)": 61,
+      "Spending Score": 42,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 100,
+      "Gender": "Male",
+      "Age": 20,
+      "Annual Income (k$)": 61,
+      "Spending Score": 49,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 101,
+      "Gender": "Female",
+      "Age": 23,
+      "Annual Income (k$)": 62,
+      "Spending Score": 41,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 102,
+      "Gender": "Female",
+      "Age": 49,
+      "Annual Income (k$)": 62,
+      "Spending Score": 48,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 103,
+      "Gender": "Male",
+      "Age": 67,
+      "Annual Income (k$)": 62,
+      "Spending Score": 59,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 104,
+      "Gender": "Male",
+      "Age": 26,
+      "Annual Income (k$)": 62,
+      "Spending Score": 55,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 105,
+      "Gender": "Male",
+      "Age": 49,
+      "Annual Income (k$)": 62,
+      "Spending Score": 56,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 106,
+      "Gender": "Female",
+      "Age": 21,
+      "Annual Income (k$)": 62,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 107,
+      "Gender": "Female",
+      "Age": 66,
+      "Annual Income (k$)": 63,
+      "Spending Score": 50,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 108,
+      "Gender": "Male",
+      "Age": 54,
+      "Annual Income (k$)": 63,
+      "Spending Score": 46,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 109,
+      "Gender": "Male",
+      "Age": 68,
+      "Annual Income (k$)": 63,
+      "Spending Score": 43,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 110,
+      "Gender": "Male",
+      "Age": 66,
+      "Annual Income (k$)": 63,
+      "Spending Score": 48,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 111,
+      "Gender": "Male",
+      "Age": 65,
+      "Annual Income (k$)": 63,
+      "Spending Score": 52,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 112,
+      "Gender": "Female",
+      "Age": 19,
+      "Annual Income (k$)": 63,
+      "Spending Score": 54,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 113,
+      "Gender": "Female",
+      "Age": 38,
+      "Annual Income (k$)": 64,
+      "Spending Score": 42,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 114,
+      "Gender": "Male",
+      "Age": 19,
+      "Annual Income (k$)": 64,
+      "Spending Score": 46,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 115,
+      "Gender": "Female",
+      "Age": 18,
+      "Annual Income (k$)": 65,
+      "Spending Score": 48,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 116,
+      "Gender": "Female",
+      "Age": 19,
+      "Annual Income (k$)": 65,
+      "Spending Score": 50,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 117,
+      "Gender": "Female",
+      "Age": 63,
+      "Annual Income (k$)": 65,
+      "Spending Score": 43,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 118,
+      "Gender": "Female",
+      "Age": 49,
+      "Annual Income (k$)": 65,
+      "Spending Score": 59,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 119,
+      "Gender": "Female",
+      "Age": 51,
+      "Annual Income (k$)": 67,
+      "Spending Score": 43,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 120,
+      "Gender": "Female",
+      "Age": 50,
+      "Annual Income (k$)": 67,
+      "Spending Score": 57,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 121,
+      "Gender": "Male",
+      "Age": 27,
+      "Annual Income (k$)": 67,
+      "Spending Score": 56,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 122,
+      "Gender": "Female",
+      "Age": 38,
+      "Annual Income (k$)": 67,
+      "Spending Score": 40,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 123,
+      "Gender": "Female",
+      "Age": 40,
+      "Annual Income (k$)": 69,
+      "Spending Score": 58,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 124,
+      "Gender": "Male",
+      "Age": 39,
+      "Annual Income (k$)": 69,
+      "Spending Score": 91,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 125,
+      "Gender": "Female",
+      "Age": 23,
+      "Annual Income (k$)": 70,
+      "Spending Score": 29,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 126,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 70,
+      "Spending Score": 77,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 127,
+      "Gender": "Male",
+      "Age": 43,
+      "Annual Income (k$)": 71,
+      "Spending Score": 35,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 128,
+      "Gender": "Male",
+      "Age": 40,
+      "Annual Income (k$)": 71,
+      "Spending Score": 95,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 129,
+      "Gender": "Male",
+      "Age": 59,
+      "Annual Income (k$)": 71,
+      "Spending Score": 11,
+      "Gender_Male": true,
+      "Multivariate Cluster": 2,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 130,
+      "Gender": "Male",
+      "Age": 38,
+      "Annual Income (k$)": 71,
+      "Spending Score": 75,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 131,
+      "Gender": "Male",
+      "Age": 47,
+      "Annual Income (k$)": 71,
+      "Spending Score": 9,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 132,
+      "Gender": "Male",
+      "Age": 39,
+      "Annual Income (k$)": 71,
+      "Spending Score": 75,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 133,
+      "Gender": "Female",
+      "Age": 25,
+      "Annual Income (k$)": 72,
+      "Spending Score": 34,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 134,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 72,
+      "Spending Score": 71,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 135,
+      "Gender": "Male",
+      "Age": 20,
+      "Annual Income (k$)": 73,
+      "Spending Score": 5,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 136,
+      "Gender": "Female",
+      "Age": 29,
+      "Annual Income (k$)": 73,
+      "Spending Score": 88,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 137,
+      "Gender": "Female",
+      "Age": 44,
+      "Annual Income (k$)": 73,
+      "Spending Score": 7,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 138,
+      "Gender": "Male",
+      "Age": 32,
+      "Annual Income (k$)": 73,
+      "Spending Score": 73,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 139,
+      "Gender": "Male",
+      "Age": 19,
+      "Annual Income (k$)": 74,
+      "Spending Score": 10,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 140,
+      "Gender": "Female",
+      "Age": 35,
+      "Annual Income (k$)": 74,
+      "Spending Score": 72,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 141,
+      "Gender": "Female",
+      "Age": 57,
+      "Annual Income (k$)": 75,
+      "Spending Score": 5,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 142,
+      "Gender": "Male",
+      "Age": 32,
+      "Annual Income (k$)": 75,
+      "Spending Score": 93,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 143,
+      "Gender": "Female",
+      "Age": 28,
+      "Annual Income (k$)": 76,
+      "Spending Score": 40,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 0
+    },
+    {
+      "CustomerID": 144,
+      "Gender": "Female",
+      "Age": 32,
+      "Annual Income (k$)": 76,
+      "Spending Score": 87,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 145,
+      "Gender": "Male",
+      "Age": 25,
+      "Annual Income (k$)": 77,
+      "Spending Score": 12,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 146,
+      "Gender": "Male",
+      "Age": 28,
+      "Annual Income (k$)": 77,
+      "Spending Score": 97,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 147,
+      "Gender": "Male",
+      "Age": 48,
+      "Annual Income (k$)": 77,
+      "Spending Score": 36,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 148,
+      "Gender": "Female",
+      "Age": 32,
+      "Annual Income (k$)": 77,
+      "Spending Score": 74,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 149,
+      "Gender": "Female",
+      "Age": 34,
+      "Annual Income (k$)": 78,
+      "Spending Score": 22,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 150,
+      "Gender": "Male",
+      "Age": 34,
+      "Annual Income (k$)": 78,
+      "Spending Score": 90,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 151,
+      "Gender": "Male",
+      "Age": 43,
+      "Annual Income (k$)": 78,
+      "Spending Score": 17,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 152,
+      "Gender": "Male",
+      "Age": 39,
+      "Annual Income (k$)": 78,
+      "Spending Score": 88,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 153,
+      "Gender": "Female",
+      "Age": 44,
+      "Annual Income (k$)": 78,
+      "Spending Score": 20,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 154,
+      "Gender": "Female",
+      "Age": 38,
+      "Annual Income (k$)": 78,
+      "Spending Score": 76,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 155,
+      "Gender": "Female",
+      "Age": 47,
+      "Annual Income (k$)": 78,
+      "Spending Score": 16,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 156,
+      "Gender": "Female",
+      "Age": 27,
+      "Annual Income (k$)": 78,
+      "Spending Score": 89,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 157,
+      "Gender": "Male",
+      "Age": 37,
+      "Annual Income (k$)": 78,
+      "Spending Score": 1,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 158,
+      "Gender": "Female",
+      "Age": 30,
+      "Annual Income (k$)": 78,
+      "Spending Score": 78,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 159,
+      "Gender": "Male",
+      "Age": 34,
+      "Annual Income (k$)": 78,
+      "Spending Score": 1,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 160,
+      "Gender": "Female",
+      "Age": 30,
+      "Annual Income (k$)": 78,
+      "Spending Score": 73,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 161,
+      "Gender": "Female",
+      "Age": 56,
+      "Annual Income (k$)": 79,
+      "Spending Score": 35,
+      "Gender_Male": false,
+      "Multivariate Cluster": 1,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 162,
+      "Gender": "Female",
+      "Age": 29,
+      "Annual Income (k$)": 79,
+      "Spending Score": 83,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 163,
+      "Gender": "Male",
+      "Age": 19,
+      "Annual Income (k$)": 81,
+      "Spending Score": 5,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 164,
+      "Gender": "Female",
+      "Age": 31,
+      "Annual Income (k$)": 81,
+      "Spending Score": 93,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 165,
+      "Gender": "Male",
+      "Age": 50,
+      "Annual Income (k$)": 85,
+      "Spending Score": 26,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 166,
+      "Gender": "Female",
+      "Age": 36,
+      "Annual Income (k$)": 85,
+      "Spending Score": 75,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 167,
+      "Gender": "Male",
+      "Age": 42,
+      "Annual Income (k$)": 86,
+      "Spending Score": 20,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 168,
+      "Gender": "Female",
+      "Age": 33,
+      "Annual Income (k$)": 86,
+      "Spending Score": 95,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 169,
+      "Gender": "Female",
+      "Age": 36,
+      "Annual Income (k$)": 87,
+      "Spending Score": 27,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 170,
+      "Gender": "Male",
+      "Age": 32,
+      "Annual Income (k$)": 87,
+      "Spending Score": 63,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 171,
+      "Gender": "Male",
+      "Age": 40,
+      "Annual Income (k$)": 87,
+      "Spending Score": 13,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 172,
+      "Gender": "Male",
+      "Age": 28,
+      "Annual Income (k$)": 87,
+      "Spending Score": 75,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 173,
+      "Gender": "Male",
+      "Age": 36,
+      "Annual Income (k$)": 87,
+      "Spending Score": 10,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 174,
+      "Gender": "Male",
+      "Age": 36,
+      "Annual Income (k$)": 87,
+      "Spending Score": 92,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 175,
+      "Gender": "Female",
+      "Age": 52,
+      "Annual Income (k$)": 88,
+      "Spending Score": 13,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 176,
+      "Gender": "Female",
+      "Age": 30,
+      "Annual Income (k$)": 88,
+      "Spending Score": 86,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 177,
+      "Gender": "Male",
+      "Age": 58,
+      "Annual Income (k$)": 88,
+      "Spending Score": 15,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 178,
+      "Gender": "Male",
+      "Age": 27,
+      "Annual Income (k$)": 88,
+      "Spending Score": 69,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 179,
+      "Gender": "Male",
+      "Age": 59,
+      "Annual Income (k$)": 93,
+      "Spending Score": 14,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 180,
+      "Gender": "Male",
+      "Age": 35,
+      "Annual Income (k$)": 93,
+      "Spending Score": 90,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 181,
+      "Gender": "Female",
+      "Age": 37,
+      "Annual Income (k$)": 97,
+      "Spending Score": 32,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 182,
+      "Gender": "Female",
+      "Age": 32,
+      "Annual Income (k$)": 97,
+      "Spending Score": 86,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 183,
+      "Gender": "Male",
+      "Age": 46,
+      "Annual Income (k$)": 98,
+      "Spending Score": 15,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 184,
+      "Gender": "Female",
+      "Age": 29,
+      "Annual Income (k$)": 98,
+      "Spending Score": 88,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 185,
+      "Gender": "Female",
+      "Age": 41,
+      "Annual Income (k$)": 99,
+      "Spending Score": 39,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 186,
+      "Gender": "Male",
+      "Age": 30,
+      "Annual Income (k$)": 99,
+      "Spending Score": 97,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 187,
+      "Gender": "Female",
+      "Age": 54,
+      "Annual Income (k$)": 101,
+      "Spending Score": 24,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 188,
+      "Gender": "Male",
+      "Age": 28,
+      "Annual Income (k$)": 101,
+      "Spending Score": 68,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 189,
+      "Gender": "Female",
+      "Age": 41,
+      "Annual Income (k$)": 103,
+      "Spending Score": 17,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 190,
+      "Gender": "Female",
+      "Age": 36,
+      "Annual Income (k$)": 103,
+      "Spending Score": 85,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 191,
+      "Gender": "Female",
+      "Age": 34,
+      "Annual Income (k$)": 103,
+      "Spending Score": 23,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 192,
+      "Gender": "Female",
+      "Age": 32,
+      "Annual Income (k$)": 103,
+      "Spending Score": 69,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 193,
+      "Gender": "Male",
+      "Age": 33,
+      "Annual Income (k$)": 113,
+      "Spending Score": 8,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 194,
+      "Gender": "Female",
+      "Age": 38,
+      "Annual Income (k$)": 113,
+      "Spending Score": 91,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 195,
+      "Gender": "Female",
+      "Age": 47,
+      "Annual Income (k$)": 120,
+      "Spending Score": 16,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 196,
+      "Gender": "Female",
+      "Age": 35,
+      "Annual Income (k$)": 120,
+      "Spending Score": 79,
+      "Gender_Male": false,
+      "Multivariate Cluster": 0,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 197,
+      "Gender": "Female",
+      "Age": 45,
+      "Annual Income (k$)": 126,
+      "Spending Score": 28,
+      "Gender_Male": false,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 198,
+      "Gender": "Male",
+      "Age": 32,
+      "Annual Income (k$)": 126,
+      "Spending Score": 74,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    },
+    {
+      "CustomerID": 199,
+      "Gender": "Male",
+      "Age": 32,
+      "Annual Income (k$)": 137,
+      "Spending Score": 18,
+      "Gender_Male": true,
+      "Multivariate Cluster": 3,
+      "Bivariate Cluster": 3
+    },
+    {
+      "CustomerID": 200,
+      "Gender": "Male",
+      "Age": 30,
+      "Annual Income (k$)": 137,
+      "Spending Score": 83,
+      "Gender_Male": true,
+      "Multivariate Cluster": 4,
+      "Bivariate Cluster": 4
+    }
+  ],
+  "optimization": {
+    "multivariate": [
+      800.0,
+      588.8026767824937,
+      476.78755441351586,
+      388.1816684617314,
+      325.74623385425576,
+      276.4117595313096,
+      236.25761095237863,
+      200.40358016790663,
+      174.1930957085769,
+      152.76267287435473
+    ],
+    "bivariate": [
+      400.0,
+      269.0167937490666,
+      157.70400815035947,
+      108.92131661364358,
+      65.56840815571681,
+      55.057348270385994,
+      44.86475569922557,
+      37.229355220943056,
+      32.40665967645661,
+      29.31440435657683
+    ]
+  }
+}
